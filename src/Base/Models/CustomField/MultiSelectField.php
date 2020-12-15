@@ -71,7 +71,7 @@ class MultiSelectField extends EntityField
 
     /**
      * Set cf enum
-	 * @param integer $enum 
+	 * @param integer $enum
      */
     public function setEnum($enum)
     {
